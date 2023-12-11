@@ -52,6 +52,9 @@ a {
   text-align: center;
   color: white;
 }
+.container{
+  margin: 5% 20%;
+}
 .link-medium {
   background-color: rgba(233, 253, 240, 1);
   color: #636363;
@@ -83,3 +86,4 @@ a {
     width: 300px;
   }
 }
+/*  V2 - Container défini */
